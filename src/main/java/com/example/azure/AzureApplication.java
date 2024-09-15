@@ -1,13 +1,13 @@
-package com.example.refresh;
+package com.example.azure;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RefreshApplication {
+public class AzureApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RefreshApplication.class, args);
+		SpringApplication.run(AzureApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.example.refresh;
+package com.example.azure;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RefreshApplicationTests {
+class AzureApplicationTests {
 
 	@Test
 	void contextLoads() {
